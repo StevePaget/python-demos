@@ -17,4 +17,4 @@ You can also detect mouse movement over a canvas, so you can create interfaces t
 
 Here is a very simple canvas buttons project:  [https://github.com/StevePaget/canvasButtons](https://github.com/StevePaget/canvasButtons)
 
-Here is a more complicated demo, which has canvas dragging, animation and drawing: [https://github.com/StevePaget/CanvasDemo](https://github.com/StevePaget/CanvasDemo)
+Here is a more complicated demo, which has object dragging, animation and drawing of shapes and lines: [https://github.com/StevePaget/CanvasDemo](https://github.com/StevePaget/CanvasDemo)
